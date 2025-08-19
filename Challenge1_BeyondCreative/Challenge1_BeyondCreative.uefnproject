@@ -1,0 +1,59 @@
+{
+	"fileVersion": 15,
+	"title": "Challenge1_BeyondCreative",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"compatibilityVersion": "37.00",
+	"requiredRedirectorStartingVersion": "37.00.44765404",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "Challenge1_BeyondCreative",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Public",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"version": 1
+		},
+		"experimental":
+		{
+			"sceneGraph":
+			{
+				"bIsSceneGraphSystemAllowed": true,
+				"bEnableOneFilePerEntity": false
+			},
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "e7d31bef-41c8-95c3-c282-1c9191442b79",
+		"modules":
+		{
+			"Challenge1_BeyondCreative": "1972092e-4be1-5aa7-4219-12ac1af7e97f"
+		},
+		"projectVersePath": ""
+	}
+}
